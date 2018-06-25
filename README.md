@@ -1,7 +1,7 @@
 # Sample Solution to Taiwan ETF Price Prediction Competition
 [台灣ETF價格預測競賽](https://tbrain.trendmicro.com.tw/Competitions/Details/2)
 
-This solution uses a [Bayesian hierarchical model](https://www.wikiwand.com/en/Bayesian_hierarchical_modeling) largely based on [ceshine/kaggle-winton-2016](https://github.com/ceshine/kaggle-winton-2016) repo (which is based on [Tsakalis Kostas's model](Tsakalis Kostas)).
+This solution uses a [Bayesian hierarchical model](https://www.wikiwand.com/en/Bayesian_hierarchical_modeling) largely based on [ceshine/kaggle-winton-2016](https://github.com/ceshine/kaggle-winton-2016) repo (which is based on [Tsakalis Kostas's model](https://www.kaggle.com/c/the-winton-stock-market-challenge/forums/t/18584/solution-sharing)).
 
 WARNING: This is a very simple baseline model. It is not ready for real trading.
 
